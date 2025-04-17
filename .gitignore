@@ -1,0 +1,13 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+
+# VSCode settings and workspace files
+.vscode/
+*.code-workspace
+
+# macOS system files
+.DS_Store
